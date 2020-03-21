@@ -6,7 +6,7 @@
             * [FPS](#fps)
             * [Corridas](#corridas)
             * [Outros](#outros)
-        * [Pagos]
+        * [Pagos](#pagos)
             
 # Jogos
 
