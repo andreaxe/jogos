@@ -47,6 +47,10 @@ criar uma conta.
 1. Crossout
     https://store.steampowered.com/app/386180/Crossout/
 
+2. Trackmania Nations Forever (**leve**) _Windows only!_
+   https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
+    
+
 #### Outros
 
 ### Pagos
