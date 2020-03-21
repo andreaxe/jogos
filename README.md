@@ -40,6 +40,8 @@ criar uma conta.
     
 7. Quake Live (**leve**) _Windows only!_ https://store.steampowered.com/app/282440/Quake_Live/
 
+8. Quake Champions (**leve**) https://store.steampowered.com/app/611500/Quake_Champions/
+
 #### Corridas 
 
 1. Crossout https://store.steampowered.com/app/386180/Crossout/
