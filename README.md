@@ -5,6 +5,7 @@
         * [Gratuitos](#gratuitos)
             * [FPS](#fps)
             * [Corridas](#corridas)
+            * [Estratégia](#estratgia)
             * [Outros](#outros)
         * [Pagos](#pagos)
     * [Outros Fornecedores](#outros-fornecedores)
