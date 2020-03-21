@@ -8,6 +8,7 @@
             * [Outros](#outros)
         * [Pagos](#pagos)
     * [Outros Fornecedores](#outros-fornecedores)
+        * [Gratuitos]()
                
 # Jogos
 
@@ -58,6 +59,8 @@ criar uma conta.
 ## Outros fornecedores
 
 Nesta seção constam outros jogos fora das plataformas de gaming.
+
+### Gratuitos
     
 1. Unreal Tournament (**leve**)
     https://www.epicgames.com/unrealtournament/
