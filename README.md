@@ -42,6 +42,9 @@ criar uma conta.
 
 6. Conter-Strike Global Offensive (**mais pesado**)    
     https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+    
+7. Quake Live (**leve**) _Windows only!_
+   https://store.steampowered.com/app/282440/Quake_Live/
 
 #### Corridas 
 
