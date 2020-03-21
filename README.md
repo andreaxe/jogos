@@ -51,7 +51,7 @@ criar uma conta.
 
 ### Pagos
 
-### Outros fornecedores
+## Outros fornecedores
 
 Nesta seção constam outros jogos fora das plataformas de gaming.
     
