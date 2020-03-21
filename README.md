@@ -41,10 +41,10 @@ criar uma conta.
 6. Conter-Strike Global Offensive (**mais pesado**)
     https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
 
-7. Unreal Tournament (**leve**)
+7. Unreal Tournament (**leve**) 
     https://www.epicgames.com/unrealtournament/
     * Instruções
-        * Devem criar uma conta nesse site com um user e descarregar o jogo.
+        * Devem criar uma conta nesse site com um user e descarregar o jogo. (compativel com Windows e MACOS)
 
 #### Corridas 
 
