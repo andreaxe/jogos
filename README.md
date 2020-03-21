@@ -7,7 +7,7 @@
             * [Corridas](#corridas)
             * [Outros](#outros)
         * [Pagos](#pagos)
-    * [Outros](#outros-fornecedores)
+    * [Outros Fornecedores](#outros-fornecedores)
                
 # Jogos
 
@@ -59,6 +59,9 @@ Nesta seção constam outros jogos fora das plataformas de gaming.
     https://www.epicgames.com/unrealtournament/
     * Instruções
         * Devem criar uma conta nesse site com um user e descarregar o jogo. (compativel com Windows e MACOS)
+
+2. Call of Duty Warzone (**pesado**)
+    https://www.callofduty.com/br/pt/warzone
 
     
 
