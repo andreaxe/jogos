@@ -7,7 +7,8 @@
             * [Corridas](#corridas)
             * [Outros](#outros)
         * [Pagos](#pagos)
-            
+    * [Outros](#outros-fornecedores)
+               
 # Jogos
 
 Segue uma lista de jogos para se jogar em qualquer máquina e gratuítos. Verifiquem pf se cada um dos jogos é compativel com o vosso 
@@ -41,11 +42,6 @@ criar uma conta.
 6. Conter-Strike Global Offensive (**mais pesado**)    
     https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
 
-7. Unreal Tournament (**leve**)
-    https://www.epicgames.com/unrealtournament/
-    * Instruções
-        * Devem criar uma conta nesse site com um user e descarregar o jogo. (compativel com Windows e MACOS)
-
 #### Corridas 
 
 1. Crossout
@@ -54,4 +50,15 @@ criar uma conta.
 #### Outros
 
 ### Pagos
+
+### Outros fornecedores
+
+Nesta seção constam outros jogos fora das plataformas de gaming.
+    
+1. Unreal Tournament (**leve**)
+    https://www.epicgames.com/unrealtournament/
+    * Instruções
+        * Devem criar uma conta nesse site com um user e descarregar o jogo. (compativel com Windows e MACOS)
+
+    
 
