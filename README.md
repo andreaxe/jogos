@@ -45,9 +45,13 @@ criar uma conta.
 
 2. Trackmania Nations Forever (**leve**) _Windows only!_ https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
     
+#### Estratégia
+
+1. Crusader Kings II https://store.steampowered.com/app/203770/Crusader_Kings_II/
 
 #### Outros
 
+1. World of Tanks https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/
 ### Pagos
 
 ## Outros fornecedores
