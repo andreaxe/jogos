@@ -2,6 +2,7 @@
  
  * [Jogos](#jogos)
     * [Steam](#steam)
+        * [Disco rigido externo](#disco-rigido-externo)
         * [Gratuitos](#gratuitos)
             * [FPS](#fps)
             * [Corridas](#corridas)
@@ -22,6 +23,12 @@ Para poderem descarregar e jogar estes jogos online devem primeiro descarregar a
 criar uma conta.
 
 * https://store.steampowered.com/?l=portuguese
+
+### Disco rigido externo
+
+Para instalar jogos em discos externos seguir o seguinte tutorial:
+
+* https://www.youtube.com/watch?v=PRUh3GaNsas
 
 ### Gratuitos
 
