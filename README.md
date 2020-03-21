@@ -13,12 +13,12 @@
 Segue uma lista de jogos para se jogar em qualquer máquina e gratuítos. Verifiquem pf se cada um dos jogos é compativel com o vosso 
 sistema operativo.  
 
-* https://store.steampowered.com/?l=portuguese
-
 ## Steam
 
 Para poderem descarregar e jogar estes jogos online devem primeiro descarregar a aplicação para o vosso sistema operativo e 
 criar uma conta.
+
+* https://store.steampowered.com/?l=portuguese
 
 ### Gratuitos
 
