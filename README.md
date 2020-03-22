@@ -51,7 +51,7 @@ Para instalar jogos em discos externos seguir o seguinte tutorial:
 
 6. Conter-Strike Global Offensive (**mais pesado**) https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
 
-    * para activar a consolar de programador seguir o tutorial do video: https://www.youtube.com/watch?v=XoRRnU_yTME
+    * para activar a consola de programador seguir o tutorial do video: https://www.youtube.com/watch?v=XoRRnU_yTME
     
 7. Quake Live (**leve**) _Windows only!_ https://store.steampowered.com/app/282440/Quake_Live/
 
