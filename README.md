@@ -17,6 +17,12 @@
 Segue uma lista de jogos para se jogar em qualquer máquina e gratuítos. Verifiquem pf se cada um dos jogos é compativel com o vosso 
 sistema operativo.  
 
+## Discord
+
+Instalar o discord através do link: https://discordapp.com/
+
+* Aceder ao canal: https://discord.gg/qxddYA
+
 ## Steam
 
 Para poderem descarregar e jogar estes jogos online devem primeiro descarregar a aplicação para o vosso sistema operativo e 
@@ -44,6 +50,8 @@ Para instalar jogos em discos externos seguir o seguinte tutorial:
 5. War Thunder https://store.steampowered.com/app/236390/War_Thunder/
 
 6. Conter-Strike Global Offensive (**mais pesado**) https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+
+    * para activar a consolar de programador seguir o tutorial do video: https://www.youtube.com/watch?v=XoRRnU_yTME
     
 7. Quake Live (**leve**) _Windows only!_ https://store.steampowered.com/app/282440/Quake_Live/
 
